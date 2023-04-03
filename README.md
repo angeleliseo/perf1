@@ -5,7 +5,7 @@ Proyecto Final
 * Nota: Usar mecanismo de grabacion por jmeter proxy o creacion manual del script (Sampler por sampler)
 2. Crear un ThreadGroup por Test Case.
 3. Aplicar las mejores practicas en uso de Naming Conventions, Creacion de transacciones, uso de assertions, Parametrizacion y Correlacion.
-4. Utilizar el UltimateThreadGroup plugin para configurar un escenario de LoadTest y obtener un baseline de la aplicacion para una carga de:
+4. Utilizar el UltimateThreadGroup plugin para configurar un escenario de LoadTest, con un steady state de 30 minutos y obtener un baseline de la aplicacion para una carga de:
 	- 24 TPM (transacciones por minuto) para GET /people
 	- 12 TPM para POST /people
 	- 12 TPM para GET /people/{person_id}
