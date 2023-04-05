@@ -24,3 +24,5 @@ Proyecto Final
 * Capturas de la ejecucion modo consola
 * Archivo resultante de la ejecucion por linea de comandos *.jtl
 * Reporte en formato HTML (en zip)
+
+**Fecha limite de entrega: 18 de Abril 11:59PM**
