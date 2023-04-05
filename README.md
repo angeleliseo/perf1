@@ -1,7 +1,7 @@
 Proyecto Final
 -----------------------
 
-1. Crear Script a partir de documento de Test Cases y la coleccion de postman facilitada.
+1. Crear Script a partir de documento de Test Cases y la coleccion de postman facilitada en la carpeta [material](https://github.com/angeleliseo/perf1/tree/main/material) de este repositorio.
 * Nota: Usar mecanismo de grabacion por jmeter proxy o creacion manual del script (Sampler por sampler)
 2. Crear un ThreadGroup por Test Case.
 3. Aplicar las mejores practicas en uso de Naming Conventions, Creacion de transacciones, uso de assertions, Parametrizacion y Correlacion.
