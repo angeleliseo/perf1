@@ -25,4 +25,15 @@ Proyecto Final
 * Archivo resultante de la ejecucion por linea de comandos *.jtl
 * Reporte en formato HTML (en zip)
 
+
+**Nota**: Se puede monitorear con Grafana o NMon. Si se usa Grafana la infraestructura a monitorear es la siguiente:
+
+### Acceso Interno Web Service App(LAN)
+
+- Balanceador de carga: http://10.1.1.42
+- Nodos del cluster:
+  - http://10.1.1.40:5000
+  - http://10.1.1.41:5000
+- Mongo DB: 10.1.1.43
+
 **Fecha limite de entrega: 18 de Abril 11:59PM**
