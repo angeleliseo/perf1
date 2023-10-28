@@ -36,4 +36,4 @@ Proyecto Final
   - http://10.1.1.41:5000
 - Mongo DB: 10.1.1.43
 
-**Fecha limite de entrega: 13 de Noviembre 11:59PM**
+**Fecha limite de entrega: 20 de Noviembre 11:59PM**
