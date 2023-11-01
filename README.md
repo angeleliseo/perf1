@@ -27,6 +27,7 @@ Proyecto Final
 
 
 **Nota**: Se puede monitorear con Grafana o NMon. Si se usa Grafana la infraestructura a monitorear es la siguiente:
+**Liga de accesso a Grafana:** [http://main.norhome.casa:60012/login](http://main.norhome.casa:60012/login)
 
 ### Acceso Interno Web Service App(LAN)
 
