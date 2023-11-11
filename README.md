@@ -26,15 +26,6 @@ Proyecto Final
 * Reporte en formato HTML (en zip)
 
 
-**Nota**: Se puede monitorear con Grafana o NMon. Si se usa Grafana la infraestructura a monitorear es la siguiente:
-**Liga de accesso a Grafana:** [http://main.norhome.casa:60012/login](http://main.norhome.casa:60012/login)
-
-### Acceso Interno Web Service App(LAN)
-
-- Balanceador de carga: http://10.1.1.42
-- Nodos del cluster:
-  - http://10.1.1.40:5000
-  - http://10.1.1.41:5000
-- Mongo DB: 10.1.1.43
+**Nota**: Actualizacion. No sera necesario incluir la parte de monitoreo del lado del servidor con Grafana o NMon para la entrega del proyecto final.
 
 **Fecha limite de entrega: 20 de Noviembre 11:59PM**
