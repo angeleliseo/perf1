@@ -28,4 +28,4 @@ Proyecto Final
 
 **Nota**: Actualizacion. No sera necesario incluir la parte de monitoreo del lado del servidor con Grafana o NMon para la entrega del proyecto final.
 
-**Fecha limite de entrega: 20 de Noviembre 11:59PM**
+**Fecha limite de entrega: 24 de Noviembre 11:59PM**
